@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//python/python/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"python语法","permalink":"//python/python/","dgPassFrontmatter":true}
 ---
 
 # 环境配置
@@ -65,4 +65,3 @@ argv
 def argv():
 	return 0
 ```
-n
