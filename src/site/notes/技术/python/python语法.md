@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"python语法","permalink":"/技术/python/python语法/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/技术/python/python语法/","dgPassFrontmatter":true}
 ---
 
 # 环境配置
