@@ -20,7 +20,7 @@ https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
 python会将文件先拿UTF-8做字典翻译为数字，再使用Unicode翻译为数字 0100
 python会将文件先拿GB2312做字典翻译为数字（和UTF-8做字典翻译成的数字是不一样的）
 在vs2022中，我们需要再扩展中安装“Force UTF-8”插件
-## 语句
+### 语句
 赋值语句：给变量赋值。需要回车
 ```
 Kumamon = 10
@@ -65,4 +65,3 @@ argv
 def argv():
 	return 0
 ```
-np
